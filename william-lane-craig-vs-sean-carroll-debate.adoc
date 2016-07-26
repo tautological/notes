@@ -155,7 +155,7 @@ http://www.wall.org/~aron/blog/thoughts-on-the-carroll-craig-debate/
 == Physicist Don Page's Observations
 
 .Source
-http://www.preposterousuniverse.com/blog/2015/03/20/guest-post-don-page-on-god-and-cosmology/, Sean Carroll's own blog
+http://www.preposterousuniverse.com/blog/2015/03/20/guest-post-don-page-on-god-and-cosmology/[Sean Carroll's own blog]
 
 Don Page is a physicist and evangelical Christian, and has created his own "Optimal Argument for God" with four parts:
 
@@ -164,8 +164,25 @@ Don Page is a physicist and evangelical Christian, and has created his own "Opti
 . http://arxiv.org/abs/1412.7544[Part 3]
 . https://www.youtube.com/watch?v=4Fdv9eCTTlk[Part 4]
 
+He is also a universalist in regards to hell, and believes all will be saved in the end.
 
-
+[start]
 * If a scientist doesn't prematurely assign low prior probability for theism, and then allows themselves to consider the historical evidence for Jesus and his resurrection, the probability for theism can be "quite high".
 * The "ultimate theory of the universe" might be extremely simple and yet leads to sentient experiences like our own.
-* Bayesian analysis and Occam's razor would seemingly point to a simple theory, but our observations preclude the simplest available, such as nothing concrete exists, and that logically possible sentient experiences occur with equal probability despite our own existence.
+* Bayesian analysis and Occam's razor would seemingly point to a simple theory, but our observations preclude the simplest available. For example:
+** Nothing concrete exists
+** All logically possible sentient experiences occur with equal probability
+* The theory could be extremely simple yet not maximally simple.
+* While this theory likely couldn't be explained by naturalism, it could be accepted as a brute fact.
+* A hypothesis could be made that because God is simpler than the universe, you could get a simpler explanation if you started with God.
+* It could be argued that God loves mathematical elegance as well as creating sentient beings, therefore this explains the laws of physics and the high number of sentient experiences.
+* While it's common sense to observe cause and effect, the laws of physics are CPT invariant and it seems fundamental that the future determines the past as much as the past determines the future.
+* God is the cause of the universe, the ultimate, concrete cause, and the ultimate brute fact.
+* God created the universe with apparent unidirectional causation to give his creatures a dim picture of his relation as the true cause.
+* God created us with an illusion of libertarian free will to mirror his own true free will.
+* We are fundamentally sentient experiences rather than individual "persons". This perception of personhood provides a dim image of God as the one true person.
+* A beginning to the universe is not required to argue for the existence of God, and from physics we just don't know if there was a beginning.
+* Fine tuning and its probability is dependent on the model being used, so without a definite model, this probability cannot be determined.
+* Some models give high probability to Boltzmann brain observations, and other models give low probability, but the problem is yet a difficult one to solve.
+* Evidence from fine tuning is ambiguous because the probabilities depend on the model.
+* Whether the universe had a beginning is also ambiguous, and the first premise of the kalam model is highly dubious because it depends on contingent intuitions developed from living in a universe with relatively simple laws of physics and with a strong thermodynamic arrow of time.

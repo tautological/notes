@@ -186,3 +186,14 @@ He is also a universalist in regards to hell, and believes all will be saved in 
 * Some models give high probability to Boltzmann brain observations, and other models give low probability, but the problem is yet a difficult one to solve.
 * Evidence from fine tuning is ambiguous because the probabilities depend on the model.
 * Whether the universe had a beginning is also ambiguous, and the first premise of the kalam model is highly dubious because it depends on contingent intuitions developed from living in a universe with relatively simple laws of physics and with a strong thermodynamic arrow of time.
+
+.A few observations from the lengthy comments after the blog post:
+
+* Bill Jefferys criticized Don Page's Bayesian probability calculations repeatedly. His primary point of contention is Page's priors for the probability of life, which Bill claims should be implicitly assumed because we exist. Don disagreed that the probability for life should be implicitly assumed, and Aron Wall and Luke Barnes also chimed in to provide defense of Don's use of such priors. At this point, Bill stopped responding to the conversation.
+* You can calculate a theoretical Bayesian probability with subjective priors (biases?), namely a naturalistic or theistic worldview, which ultimately make either possibility more likely. After lengthy discussion in the comments, these probabilities can be summarized as: if you approach the existence of God with a _a priori_ theism, it's more likely that God exists. Likewise, if you approach the existence of God with _a priori_ naturalism, it's less likely (or impossible) that God exists.
+* There are three limitations that prevent a proper Bayesian probability from being definitively calculated:
+. Incomplete data
+. Incomplete knowledge of likelihoods from hypotheses
+. Subjective priors for the hypotheses
+* My thoughts: after much consideration, I don't think the Bayesian approach convinces even the most mathematically-minded skeptics or atheists, because the priors depend on non-naturalistic presuppositions. For example, the historical resurrection of Jesus. I may not be understanding the argument well because I don't understand Bayesian probability.
+* It seems that "Josh" (one of the atheist commenters') has come to the right conclusion: "...this quandry [of calculating the probability of God's existence] arises from still remaining so partial to Bayesian thinking on matters it is not equipped to solve."

@@ -1,0 +1,79 @@
+= William Lane Craig vs. Christopher Hitchens Debate
+
+.Debate source
+https://www.youtube.com/watch?v=e8MzPmkNsgU
+
+
+
+.Definitions
+Teleology, or teleological:: The philosophical study of nature by attempting to describe things in terms of their apparent purpose, directive principle, or goal.
+Solipsism:: The view or theory that the self is all that can be known to exist.
+Non Sequitur:: An argument with a conclusion that does not follow from its premises.
++
+For example: 1) If _A_ is true, then _B_ is true. 2) _B_ is true. 3) Therefore, _A_ is true.
++
+Alternatively: 1) If _A_ is true, then _B_ is true. 2) _A_ is false. 3) Therefore, _B_ is false.
+
+=== Craig's Arguments
+
+.Cosmology
+* There is strong cosmological evidence that the universe is not eternal and arose at a specific point in time.
+* The universe couldn't have come from nothing, because "something cannot come from nothing".
+* There is strong evidence that our universe is finely tuned and designed when you evaluate the constants and quantities found in cosmology and astrophysics.
+
+.Morality
+* Humans possess an innate and understanding of right and wrong, and you cannot make a claim that there are objective moral values without God.
+* God is the transcendent foundation of objective moral values.
+
+.Miracles
+* The historicity of Jesus' resurrection transcends natural possibilities, thus requiring a supernatural explanation.
+
+.Experiential
+* Though it cannot be proved, the fact that people experience God requires an explanation. This is referred to as a "properly basic belief".
+
+.Evolution
+* Special creation is not required to negate the account in Genesis, and a Christian can be open to the evidence
+
+.Timing
+* Of all humans ever to exist, only 2% lived before Christ's coming. Christ's timing came at a strategic point in the development of human civilization in terms of written information and taking advantage of a large and peaceful Roman Empire that helped to disseminate this information.
+
+== Hitchens' Arguments
+
+* Using historically changing scientific evidence to substantiate the claim of supernatural design is *retrospective evidentialism*, which implies that a believer only needs to change their theories about God's mechanisms for creation as new evidence is unveiled. This is difficult if not impossible to disprove, because God's means can always change to adapt to newer scientific discoveries.
+
+* Regarding fine tuning, you have to be able to imagine that a divine being used the following events and mechanisms to bring us to a knowledge of Jesus and God:
+
+** Billions of years of mass extinction and inefficient evolution, including the demise of 99.9% of all species over time
+** The formulation and destruction of innumerable stars and galaxies to allow for the proper elements to exist in the required quantities
+
+* All observable phenomena are explicable without the assumption that God exists.
+
+* Even if a deity went through the great laborious process of creating the universe and used messy evolution to bring a particularly evolved species of primates to a knowledge of him, there's no evidence to show that this being cares about us.
+
+* Believers want to have it both ways by claiming that God used natural processes to bring us to this present time, and also that God doesn't need natural processes and can supernaturally act independent of nature. "Evidence is an occasional convenience"
+
+* Extraordinary claims require extraordinary evidence, and a Christian requires much more than a Deist because of a Christian's claim of direct involvement of God in human history and violating natural principles.
+
+* God is cruel, capricious, bungling, and random because he chose to passively watch and allow the life and death of innumerable humans without his participation or intervention. He stood with "arms crossed" for tens of thousands of years and people lived short and brutish lives until he chose to reveal himself directly to Hebrews with a few thousand years left on the clock.
+
+* For deriving morality of the supernatural: Atheists and believers seem capable of doing equally good acts, but believers have caused more objective harm in the world and have been the source of more death and destruction. For example:
+** Catholic support of the Nazi regime and celebrating Hitler's birthday every year until the end of the war
+** 50-60% of Waffen SS members were practicing Catholics and none of them were excommunicated from the church following the war
+** Russian Orthodox church in favor of the Czars and Stalinist dictatorship
+
+* Moral absolutes long predate monotheism and arose out of an ingrained sense of brotherhood and sisterhood among humans.
+
+* If free will is derived from a deity, it is inherently degraded and redefined because "the boss insists upon it".
+
+* Believing in God is a sort of voluntary slavery, or a "celestial North Korea", because some people inherently don't want the right to choose.
+
+* While someone's sensibilities want to believe that there's more to morality than naturalism, evolution and naturalistic social development provide sufficient reasoning for humanity's shared sense of moral absolutes.
+
+* It's "depressingly easy" to get a religious rumor started among uneducated, frightened, literate, and ancient peoples. Therefore, miracles or extraordinary claims from such people are easily dismissed and no real proof exists to substantiate the claims.
+
+== Q&A Observations
+
+.Morality
+* On a question about bestiality, Hitchens implied that cannibalism is naturalistically prohibited on the grounds that you can get a bad disease from it and your society will die out.
+* Regarding homosexuality, the Bible claims that homosexuality is "against nature", yet many of God's children are born with a preference for sex with their own gender.
+* You can't judge the truth of a worldview based on its social impact.

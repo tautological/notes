@@ -1,0 +1,171 @@
+= William Lane Craig vs. Sean Carroll
+
+.Debate Source
+https://www.youtube.com/watch?v=X0qKZqPy9T8
+
+== Craig's Arguments
+
+* Kalam Cosmological Argument
+. If the universe began to exist, then there is a transcendent cause which brought the universe into existence.
+. The universe began to exist.
+** Evidence from the expansion of the universe.
+** Evidence from the Second Law of Thermodynamics.
+. Therefore, there is a transcendent cause which brought the universe into existence.
+
+* The notion that the universe began to exist is more probable than not, and is a "more likely possibility" (Krauss' debate with WLC.) Other evidence:
+** The standard model predicts a beginning (classical general relativity?)
+** Borde, Guth, and Vilenkin (BGV): "All the evidence we have says that the universe had a beginning"
+** If quantum gravity in the new models does exist, it still doesn't allow for "infinity past" time.
+** It is very difficult to devise a system -- especially a quantum one -- that does nothing 'forever', then evolves. A truly stationary or periodic quantum state, which would last forever, would never evolve, whereas one with any instability will not endure for an indefinite time." -- Anthony Aguirre and John Kehayias in "Quantum Instability of the Emergent Universe"
+** "The universe can't have existed forever. We know there must have been an absolute beginning a finite time ago." -- Paul Davies in "The Big Questions: In the Beginning"
+** The Carroll-Chen model with "baby universes" has two problems:
+*** The production mechanisms violate quantum theory by causing irretrevable information loss from the mother universes to their babies.
+*** The Boltzmann Brain Problem: since the mother universe is a de sitter space where thermal fluctuations occur, and since baby universes grow into de sitter spaces themselves, there no explanation in the model why there exists a low entropy universe around us rather than the illusion of isolated brains which have fluctuated into existence from the quantum vacuum. This is less plausible than the assertion that the universe began to exist with a low entropy condition.
+** Aron Wall's paper "The Generalized Second Law implies a Quantum Singularity Theorem", the universe must have begun to exist unless -- in Carroll's model -- one postulates a reversal of the arrow of time at some point in the past. This reversal of the arrow of time seems to raise the "same sorts of philosophical questions that any sort of beginning in time would."
+
+* Teleological Argument:
+. The fine-tuning of the universe is due to either physical necessity, chance, or design.
+. It is not due to physical necessity or chance.
+. Therefore, it is due to design.
+** One option, physical necessity, doesn't require that the observed values of the constants and quantities to be fixed. Superstring theory allows a cosmic landscape of 10^500^ different universes governed by the present laws of nature.
+** Another option, chance, is that the odds of a life-permitting universe are incomprehensively great that it's not reasonable. An proposal to satisfy this problem is that there's an ensemble of randomly-ordered universes (multiverse), of which our universe is part. But because observers can only exist in finely tuned universes, of course we appear things to be finely tuned. This proposes that there's an "observer self-selection effect".
+** In order to be observable, the universe need not be fine tuned for our existence. It's vastly more probable that a random fluctuation of mass energy would yield a universe dominated by Boltzmann Brain observers than one dominated by ordinary observers, like ourselves. Therefore, this explanation is vacuous.
+** Because physical necessity and chance are not viable solutions, design must be proven false for the teleological argument to be false.
+
+== Carroll's Arguments
+
+* There are two ontologies that explain the world: naturalism and theism. Naturalism accounts for the data that we see, theism doesn't, and in part because theism is not defined.
+* Metaphysics must follow physics.
+* Physics can be summarized that "nature obeys unbreakable patterns, theories, models, and laws", and that the verification of these observations is found in math (differential equations).
+* The question is: what's the best model that explains the evidence?
+* The Hawking-Hartle "No Boundary Quantum Cosmology Model" is self contained and provides an entire history of the universe.
+* The demand for more than a model that accounts for the data is baseless.
+* BGV Theorem: in some universes, not all, the _classical spacetime description_ breaks down in the past.
+* The real universe is quantum, not classical.
+* While we don't know why the universe had a unique low-entropy beginning, an explanation for this doesn't need to invoke the notion of God.
+* Craig's use of Hawking's quote was used out of context; proper context pertains to black holes.
+* There are many models of an infinite universe. While Carroll doesn't claim that any are correct, they are viable models that should be tested.
+* The teleological argument is "the best argument that the theists have when it comes to cosmology" because it plays by the rules of particle physics and cosmology. However, this is a bad argument for many reasons:
+. Fine-tuning is dubious at best. We don't know what kinds of life are possible. Ultimately we don't know if life could exist in different conditions in the universe because we can only observe our universe, and this implies anthropocentrism.
+. God doesn't need fine tuning to create life. "God doesn't care what the mass of the electron is, he can do what he wants". Naturalism is the only framework in which you can honestly say that the physical parameters must take on certain parameters for life.
+. Fine tuning may only be apparent. This could simply be due to lack of evidence.
+. The cosmological multiverse is a prediction, based on self-contained physical models. Pertaining to the Boltzmann Brain problem, different multiverse models will have different ratios of ordinary observers to random observers.
+. Theism doesn't explain the data best. For example:
++
+[options="header", cols="3*"]
+|===
+|Aspect
+|Theism
+|Naturalism
+
+|Amount of tuning
+|Just enough, but not too much
+|Sometimes too much -- a physical mechanism could overtune unnecessarily. The entropy of the early universe is much lower than it needs to be to allow for life.
+
+|Parameters and parameters of particle physics
+|Parameters would have some structure and be designed for some reasoning
+|Would be kind of random and a messy
+
+|Role of life in the universe
+|Life would play a special role
+|Life is insignificant from the perspective of the universe. Innumerable galaxies and worlds exist in the universe, and humans assume it was all made for us.
+
+|Evidence for God
+|God should be obvious and make himself easily known, and religion should be universal, not given to only one tribe in recent history
+|Numerous religions that conflict with each other, which arose out of their local conditions
+
+|Doctrinal stability
+|Religious doctrines would be extremely stable over time and not change
+|Would expect changes that adapt under social conditions
+
+|Moral teachings
+|Transcendent, progressive (sexism is wrong, slavery is wrong)
+|Moral teachings would reflect local mores -- some good rules, and some not so good
+
+|Sacred texts
+|Provide interesting information such as information about disease and washing our hands
+|Mishmash, some poetic parts, good parts, boring parts, mythological parts
+
+|Biological forms
+|Would be designed, or present clear evidence of design
+|Would derive from the twists and turns of evolutionary history
+
+|Minds and bodies
+|Minds should be independent of bodies
+|Personality should change if you're injured, tired, or haven't had your cup of coffee yet
+
+|Problem of Evil
+|Shouldn't be random suffering, things should be just and ultimately perfect
+|Should be kind of a mess
+|===
+** It's not hard for theists to discredit or provide answers to all of the above, but so can naturalism.
+
+== Craig's Rebuttal
+
+* There's no credible model of a beginning-less universe
+* The Carroll-Chen model is incomplete in that it doesn't have a clear, recommended dynamical path from the background spacetime to the birth of universes like ours.
+* There are many scientists who have defended the reality of fine-tuning: Barrow, Carr, Carter, Davies, Dawkins, Deutsch, Ellis, Greene, Guth, Harrison, Hawking, Linde, Page, Penrose, Polkinghorne, Rees, Sandage, Smolin, Susskind, Tegmark, Tipler, Vilenkin, Weinberg, Wheeler, Wilczek, and Sean Carroll himself.
+* Sean Carroll: "If the universe we see is really all there is, with the big bang as a low entropy beginning, we seem to be stuck with an uncomfortable fine-tuning problem."
+* Per Robin Collins: Even if low entropy isn't required for intelligent life to exist, it is necessary for the discoverability of the universe.
+
+== Carroll's Rebuttal
+
+* A consistent model is a success and doesn't require a cause or explanation. It's like someone taking pictures with an iPhone and asking, "where does the film go?"
+* The physical world in which we're embedded has two important features: there are unbreakable features and laws, and there's an arrow of time with increasing entropy. Cause and effect, however, are absent when we talk about the universe as a whole because the multiverse or other universes don't necessarily obey laws.
+* Intuitive cause and effect shouldn't be applied to the fundamental nature of reality.
+* One theory or model is bouncing cosmology that is infinite in time, and there are others.
+* There is fine tuning, but there's no evidence that this tuning is required for the existence of life.
+* Regarding the multiverse, it's highly presumptuous to assume all of reality is just like the limited part we can observe.
+* Boltzmann Brains are not a problem with multiverse models.
+* Regarding expectations of theism and naturalism, you can always "wriggle out" of the parameters.
+
+== Craig's Closing Statement
+
+* Taxi cab fallacy -- Carroll agrees with the cause and effect principle until he reaches his conclusion, and then throws it out.
+* Boltzmann brains weren't discounted.
+
+== Carroll's Closing Statement
+
+* Boltzmann brains are dependent on the model.
+* In an infinite multiverse model, it's easier to create a universe rather than a  Boltzmann brain.
+* There are very few people in the world who come to believe in God because it provides the best scientific explanations. Instead, the primary reason for theism is other than cosmology or these other scientific explanations. Such as:
+** A sense of community
+** A sense of connection with the transcendent
+** A sense of meaning for their lives
+* Carroll would have been a theist up until 200 years ago, and increasingly less frequently until the present time as more naturalistic explanations of the data became available.
+* Theists accept the science but deny the implications. Theists say that modern science hasn't altered mankind's fundamental view of reality from 2000 years ago. There are two reasons why this is bad:
+. It's wrong
+. Theism has been undermined by science, and people who cling to God are not going to be part of the enlightening world because we're at a crossroads.
+* Philosophers today have consensus on three things:
+. External reality exists
+. Science tells us something about that external reality
+. God does not exist
+* There's a third option: Theists should say: "Look, we admit we were wrong. We were wrong hundreds of years ago when we based our belief system on the idea that God was in charge of it all. Of course we were wrong! It was 2000 years ago, we didn't have microscopes or telescopes. What right do we have to think that we would have gotten the fundamental nature of reality right?"
+* Naturalism replaces theism but it doesn't necessarily answer the hard questions of meaning and purpose. What matters is what we have now, we will die, this existence is all we have. But there are hard questions of meaning, fulfillment, etc. that have yet to be answered.
+* To sum up the above two arguments: apply the same feeling of community, humanity, and rigor that has historically been attributed to philosophy and religion, and instead apply it to embracing naturalism and answering the hard questions above.
+
+
+== Aron Wall's Observations
+
+.Source
+http://www.wall.org/~aron/blog/thoughts-on-the-carroll-craig-debate/
+
+* Cosmology itself is not necessary to bring people to belief in God. What matters is the cumulative case of Cosmology and everything else, such as history, the Resurrection, etc.
+
+== Physicist Don Page's Observations
+
+.Source
+http://www.preposterousuniverse.com/blog/2015/03/20/guest-post-don-page-on-god-and-cosmology/, Sean Carroll's own blog
+
+Don Page is a physicist and evangelical Christian, and has created his own "Optimal Argument for God" with four parts:
+
+. http://arxiv.org/abs/1212.5608[Part 1]
+. http://www2.asa3.org/movies/ASA2014Page.mp4[Part 2]
+. http://arxiv.org/abs/1412.7544[Part 3]
+. https://www.youtube.com/watch?v=4Fdv9eCTTlk[Part 4]
+
+
+
+* If a scientist doesn't prematurely assign low prior probability for theism, and then allows themselves to consider the historical evidence for Jesus and his resurrection, the probability for theism can be "quite high".
+* The "ultimate theory of the universe" might be extremely simple and yet leads to sentient experiences like our own.
+* Bayesian analysis and Occam's razor would seemingly point to a simple theory, but our observations preclude the simplest available, such as nothing concrete exists, and that logically possible sentient experiences occur with equal probability despite our own existence.

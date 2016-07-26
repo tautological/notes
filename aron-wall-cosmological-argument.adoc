@@ -1,0 +1,154 @@
+= Aron Wall's Cosmological Argument
+
+.Source
+http://www.wall.org/~aron/blog/fundamental-reality-i-prologue-or-why-even-bother/
+
+== Fundamental Reality I: Prologue, or Why Even Bother?
+
+* Cosmological arguments can provide a good reason that a fundamental entity causes the universe to exist, but both supernaturalism and naturalism have valid proposals for what that entity might be.
+* Deductive arguments from philosophy often require extra assumptions that rest on premises that, as it pertains to the existence of God, a naturalist won't accept.
+* Plausibility heuristics and metaphysics are required to some degree when talking about the fundamental nature of existence.
+
+== Fundamental Reality II: Causes and explanations
+
+* Science is in the business of finding explanations for certain phenomena, and while causality has been argued to be refuted by modern science, science still requires some notion of causation.
+* Aristotle postulates four different types of causes: material, formal, efficient, and final. Science could be argued to use only some of these types, but in particular disputes that _final_ causes exist in reality outside our own minds.
+* Explanations can be Nondeterministic.
+** For example, Quantum Mechanics is a nondeterministic theory in the sense that if you start with a given initial condition, and you know the laws of physics, there is generally more than one possible final outcome, and you can only predict their _probabilities_. As long as the probability of what happens is not so low to indicate the theory is probably wrong, this can be assumed as an explanation of the experimental outcome. Ultimately, if the universe isn't deterministic, probabilistic explanation is the best we can do.
+** You can't predict exactly when a radioactive atom will decay, but you can still explain why it can decay. Just because you can't predict exactly what happens doesn't mean there isn't a set of circumstances that causes whatever happens to happen.
+* Explanations can be Unknown.
+** Some phenomena have uncertain explanations, and it's possible the true explanation might not be discovered, but this doesn't mean the explanation does not exist.
+* Explanations are not just Regularities.
+** "Rocks have always fallen down before" is not an explanation for why the next rock falls down. It may make it rational to believe that the next rock will fall down, but doesn't explain the reason, namely gravitational attraction to Earth.
+
+== Fundamental Reality III: Chains, Parsimony, and Magic
+
+* If science discovers a way to explain everything about the world, this explanation involves presuppositions about its relationship to a set of other things that exist or that have happened. The resulting explanatory series result in the question of whether they terminate in a type of _ultimate_ explanation.
+* This resulting series (or chain) of explanations could result in one thing or principle that has no explanation for its existence, but can be used to explain everything else. You can ask two questions on the plausibility of this thing's existence using parsimony:
+. Is this entity the type of thing where it would make sense for it to just exist on its own?  Or is it the sort of thing that would more naturally be explained by reference to something else?
+. Is this the simplest conception of fundamental reality, or can we get away with a simpler one? (Here I am using simple in the sense of Occam's razor, although if there were really just one unexplained entity, not composed of parts, it would also be simple in the Medieval Scholastic sense of being non-composite.)
+* One explanation for the _ultimate_ explanation could be that its chain of explanations extends backward infinitely, or alternatively in a circle of infinite regress. However, it can be argued that this chain of explanations wouldn't actually explain anything in the chain properly. Ultimately you're still left with "things just are the way they are because they are the way they are".
+* Wall says that if you deductively trace the cause and effect of things, ultimately you're left with magic. For example, why does a hair stick to a balloon? A rebuttal to that argument is that things happen because of the laws of nature, but the concept of "laws" arose out of the necessity for a "Legislator" who put the laws into effect.
+* Ultimately, if all explanations terminate on one or more unexplained entities, these entities must exist in some sense, otherwise they couldn't do any work explaining anything else.
+
+== Fundamental Reality IV: Necessity, Eternity, and Power
+
+* Fundamental entities are metaphysically necessary if we could understand the fundamental nature of reality.
+* If a fundamental entity exists, and it explains everything else, it cannot _not_ exist because it itself comprises the fundamental rules of existence.
+* If the fundamental nature of reality cannot be explained in terms of anything else, then it is just the ultimate inexplicable "brute fact". But if there are "brute facts", then the universe rests on a fluke, and the ultimate nature of reality is completely arbitrary and irrational.
+* If fundamental entities are necessary, it is rational to conclude that they are also eternal because necessity implies that they can't come into being or cease to be. In addition, their influence must be present everywhere.
+* Fundamental entities must also be _powerful_ because their existence is capable of explaining the existence of all other things. _Powerful_ in this context means causal efficacy.
+* Fundamental entities must also be all powerful because other powers are explained by reference to theirs, and because there is nothing outside of them, and all other things are subject to their dominion.
+
+== Fundamental Reality V: Some Candidates, and a Math Test
+
+* The most plausible candidates for the fundamental principle of reality can be deduced by looking at the reality that they are supposed to explain. Physics can describe our reality by a mathematical system of equations, so this is a logical place to start. This results in two hypotheses:
+. The fundamental reality is akin to a mathematical equation that can make the world go round
+** If this is true, Naturalism is the ultimate reality and everything depends on it.
+. The fundamental reality is something akin to a mathematician; in other words, a mind capable of appreciating mathematical relations
+** If this is true, Supernaturalism or a Theistic view is the ultimate reality and everything depends on it.
+
+* When surveying supernaturalistic options, alternative proposals include Pantheism, Polytheism, or Monotheism.
+* Pantheism inherently seems more like Naturalism.
+* Polytheism has a problem with multiple fundamental entities that coexist without a higher principle that determines the relationship between each entity. Polytheistic religions often provide theogenies for each god in the Pantheon, or in some cases a henotheistic arrangement within the Pantheon itself that points to a "chief God" who is regarded as the primary creator.
+
+== Fundamental Reality VI: Comparison of the Finalists
+
+* The two most plausible fundamental realities are Naturalism and Monotheism.
+* Both Naturalism and Monotheism conclude that:
+** Nature is not a divine being
+** Nature is a limited reality capable of being studied and explored
+* The question becomes: what is the ultimate reality: is it more like a Law of Nature, or more like a Mind?
+* Conceptually, a Law is imposed by a Lawgiver, but perhaps it's a metaphor for something stranger and more magical. Because Laws compel matter to behave in a particular, rationally comprehensible way, and they imply that the universe is governed by a rational ordering principle, they seem more plausibly related to a Lawgiver (living mind) than a lifeless entity.
+* Because the deep questions surrounding Laws can be stated in precise mathematical terms about their physical content, it is not possible on the basis of cosmological arguments alone to decide between Naturalism and Theism.
+* One alternative argument is the Design Argument, one type of which was invalidated by Darwin, but another is Fine-Tuning. However, there are also Undesign Arguments based on the premise that the universe is _not_ the way a divine being would organize it.
+* The Philosophy of Mind and Philosophy of Ethics can extend the continuation of the Cosmological Argument because, if there is a source responsible for everything else that exists, then the source's attributes depend on what kinds of things exist and proceed from the source.
+
+== Fundamental Reality VII: Does God Need a Brain?
+
+* A human thinks by using its brain, which is a complex device that has, at the very least, a large amount to do with determining what our thoughts are. Therefore, if a deity exists that transcends the material world, it wouldn't and couldn't have anything like a brain.
+* If the fundamental view of reality should be simple -- that is, not composed of any kind of parts -- it would be natural to seek an explanation for how a deity's parts came together.
+* If God doesn't have a physical brain like ours, there is no physical mechanism to demonstrate what he knows, and it logically follows that he either knows _nothing_ or _everything_.
+* God would be required to know things directly, rather than through perceptual apparatus and neural processing, and also rather than representation. You can say instead that God's knowledge and truth are the same thing. What God knows about a tree must be exactly the same as that tree, but his ability to know is not the same as that tree.
+
+== Fundamental Reality VIII: The Hard Problem of Consciousness
+
+[NOTE]
+The link:https://en.wikipedia.org/wiki/Hard_problem_of_consciousness[Hard Problem of Consciousness] is a term coined by David Chalmers, a philosopher and cognitive scientist.
+
+* It is indisputable that consciousness exists, though some have sought to dispute it (such as Descartes). We have conscious self-awareness, which includes _qualia_.
+* It's seemingly impossible to deduce consciousness with the full breadth of scientific understanding, including physics and neurology, which are based on external observation.
+* The big question is not why our material brains are arranged into complex patterns, but rather why our brains experience self-awareness once they are arranged into these patterns.
+* The existence of consciousness does not imply dualism, or the existence of soul and bodies. It could be that the brain and the mind are one in the same.
+* Naturalism argues that consciousness results from eliminative or reductionist materialism, akin to just information processing in the brain.
+* Because the acknowledgment of self-awareness existed prior to the advent of neuroscience, we cannot say that self-awareness is _by definition_ a certain pattern of neurons.
+* Naturalism argues that, while we cannot yet explain self-awareness, we will certainly discover it one day. The basis for conclusion is an inductive argument from past triumphs of scientific discovery over prior non-Naturalistic or non-scientific explanations.
+* Physics cannot explain consciousness because physics consists of formal mathematical equations which merely describes the spatio-temporal patterns of material entities.
+* Neuroscientists could create lists of mappings between neural processes and conscious sensations, classify them into patterns, and still be unable to explain from the laws of physics why a particular set of correspondences should hold.
+* Enlightenment-era philosophers were dualists because they assigned all conscious, sensory, and "secondary" qualities to mind instead of matter. This enabled them to perform quantitive physics via mathematical modeling to describe the "primary" qualities of matter. To assign the "secondary" qualities to matter itself was inconsistent.
+* In addition to strict dualism, other options such as property dualism, hylomorphic dualism, epiphenomenalism, and idealism recognize the objective reality of the mind.
+* Any view that argues that all "secondary" qualities can be derived from a purely physical description of the brain is incoherent and wrong on philosophical grounds.
+* An argument for the soul need not derive from "what we are made out of", but instead can rest on God's promises and his faithfulness.
+
+== Fundamental Reality IX: Stories and Atoms
+
+* It's natural to suppose that any animal with a brain that processes and reacts to sensory stimuli should be conscious. It's natural for us to attribute consciousness to an animal in this scenario because humans are conscious beings themselves and have evolved to make this conclusion.
+* We attribute meaning or personhood to a fictional character in a book by processing a written language's letters on a page, but apart from this process, the characters have no intrinsic meaning or significance.
+* It can be objectively argued that real people are also just a collection of material objects, a set of binary data in the cosmic computer, with no inherent meaning or significance.
+* This composition of data-as-self suggests that the fundamental nature of existence must be more like a mind than a set of equations, because equations don't interpret themselves. We are not the most fundamental mind because we are contingent entities that didn't need to have existed. The conclusion is that some other mind-like entity must exist, and at best we _participate_ in the operations of this mind.
+* You can't get mental qualities out of any model of the world unless you put them in at the beginning.
+* Words in a book contain meaning because a conscious human reads and understands them, and similarly we are "read" by the ultimate nature of reality and this entity finds us to be meaningful. Alternatively explained: if any types of meaning exist that cannot be deduced from physics, then the most fundamental reality must be capable of supporting these types of meaning.
+
+== Fundamental Reality X: Theories of Ethics
+
+* Most people innately possess a belief that certain acts and behaviors are morally right and morally wrong.
+* There are four main views of meta-ethical theory: the Protagorean view, the Kantian view, the Aristotelian view, and the Platonic view.
+* The Protagorean view argues that ethics are derived from personal, subjective opinion, which may be determined by cultural or biological factors, but there's no concrete basis. "Whatever you want to do is best".
+* The Kantian view argues that ethics derive from reason, much like mathematical truths. They can be derived from self-evident first principles, including treating other people as ends rather than means.
+* The Aristotelian view argues that ethics is grounded in human nature, where living creatures have a sort of intrinsic goal, purpose, or end that is directed towards _flourishing_. Evil is a perversion or corruption from this nature. Ethics consists of identifying the requirements of human nature and cultivating habits which help to promote flourishing. While each individual person has their own _telos_ (what's good for you is not necessarily good for me), it is objectively grounded in a universal human nature.
+* The Platonic view argues that there is a transcendental principal called "the Good" or "goodness itself", which acts as the standard or judge for all other things. All things participate in greater or lesser degrees with goodness, thus their goodness is derivative from this participation.
+
+== Fundamental Reality XI: What's Right is Right
+
+* At some level, everyone has a deep-seated belief in the reality of ethics.
+* The fact that cultural relativists judge other cultures via moral relativism implies that there are embedded axioms in the human mind for an ethical framework.
+* Ethics cannot be merely subjective because people disagree about many things, and people can be rationally persuaded to change their ethical views.
+* The question is not "what are the origins of our moral ideas?", but rather "what is the truth of our moral ideas?"
+* Ethical Nihilism seems to be the automatic conclusion from Naturalism because all realities can be reduced to those described by the natural sciences. But because ethics and morality cannot be derived from a purely literal interpretation of physical facts, but rather from experiential reality, it's an oversimplification to reach this conclusion.
+* The brain is a complicated organ that we use to perceive scientific facts as well as ethical truths. It is irrational and capricious to accept only the result of our scientific thinking faculties and reject the other thoughts that result from fundamental deliverances of our brain.
+
+== Fundamental Reality XII: The Good, and the Not
+
+* If moral truths exist, then reality must combine them with physical truths, as real situations contain elements of both. This is further reinforced by the fact that you can't derive an "ought" from an "is" statement.
+* "Good" is a more fundamental concept than evil, and when we identify "evil," something perceived as "good" is being harmed. For example, inflicting unnecessary pain on a dog.
+* Existence, sensation, consciousness, will, and knowledge are inherently good and desirable things. It is only when these things exist that evil can also exist, parasitically.
+* These observations serve to reinforce a Platonic view of reality, where goodness is derivative from a fundamental type of goodness.
+* Morality seems to be akin to a mind in that it approves or favors certain things, and disapproves or disfavors other things, and thus is less like an equation.
+* This Ultimate Being then must be rooted in the fundamental nature of reality, and would therefore be objective and capable of grounding morality.
+* If God is the fundamental principle of goodness, then all other goods are images or reflections of his goodness.
+* An objection to God being the fundamental principle of goodness is the Problem of Evil. But if God is like a mind, then he can allow evil so long as it contributes to the greater good, especially if there is some good that cannot be had without evil.
+* If God is the "only good" and all other good derives from participating in his goodness, then any created thing could potentially not participate and become evil.
+
+== Fundamental Reality XIII: Surprised by Something
+
+* Wall has encountered many people who say they sense "something", a cosmic consciousness of sorts, that makes him wonder if they're "dangerously close to Theism". Wall ends with a quote from "Surprised by Joy" from CS Lewis.
+
+== Fundamental Reality XIV: Conclusion
+
+* Apart from experiment, Naturalism:
+** Cannot tell us which specific laws of nature to expect
+** Hides or denies the irreducible mysteries
+** Pretends to solve problems that it cannot possibly solve
+
+* You must open yourself up and allow God to get a hold of you, and then taste his reality. When that happens, the necessary doubts of any honest attempt to evaluate the intellectual arguments can be kicked aside and replaced with something far better.
+
+== Free Will
+
+* Libertarian Free Will argues that humans are capable of making genuine decisions, which could have been otherwise, and that the causal responsibility for that decision is rightly attributed to that person.
+* Determinism argues that humans make decisions that are determined by factors outside of our control, such as God, the laws of physics, our genetic predispositions, or otherwise.
+* Compatibilism argues that although determinism is true, we should be regarded as morally responsible for our actions, because we have a lesser, non-libertarian form of free will.
+* One argument for Libertarian Free Will is that we _feel_ like we have free will when we make a decision, and could have made a different decision instead.
+* Someone could say that chance determines their actions, and if so, then they aren't actually acting. But chance is not an entity, and even if your decisions can be predicted probabilistically, it's still you making that decision.
+* The brain is comprised of parts, which independently are not conscious and do not have mental states, and ultimately these parts can be reduced to mere atoms. But the reductionist argument supposes that only the parts are real, not the whole, because the whole is just a meaningless arrangement of parts. Therefore, if the whole is sufficiently real that it can be conscious, why can't it be real enough to act freely?
+* If the whole is identical to its parts then a symmetric relation exists, meaning that the parts are identical to the whole. The parts' behavior is determined by what I do, which is equivalent to free will.
+* An argument can be made that because God relates to us as if we were morally responsible creatures who can make real choices, this decisively indicates that we have free will.

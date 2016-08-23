@@ -1,5 +1,78 @@
 = William Lane Craig vs. Sam Harris Debate
 
+.Debate Source
+https://www.youtube.com/watch?v=vg7p1BjP2dA
+
+== Craig's Arguments
+
+* Objective moral values and duties exist, and are valid and binding independent of human opinion.
+** For example, the Holocaust is evil even if the Nazis thought it was good.
+* There are two basic contentions regarding the existence of a sound foundation for objective moral values and duties:
+** If God exists, then we have a sound foundation for them.
+** If God does not exist, then we don't have a sound foundation for them.
+* St. Anselm: God is by definition the greatest conceivable being, and therefore the highest good. He is not merely perfectly good, he is the locus and paradigm of moral values.
+* Theism claims that God's commandments are the basis for objective moral duties, and these inherently reflect God's essential character.
+* Nature is morally neutral, and naturalism claims that moral values are a behavioral byproduct of biological evolution and social conditioning. This byproduct comprises a naturalistic "herd morality".
+* Michael Ruse: Humans have an awareness of morality because it's of biological worth, a biological adaptation... ethics is illusory. Loving your neighbor as yourself is truly without foundation. Morality is just an aid to survival and reproduction, and any deeper meaning is illusory.
+* Take God out of the picture, and all you have is an ape-like creature on a speck of dust with delusions of moral grandeur.
+* Sam Harris redefines what he means by good and evil and casts them in non-moral terms:
+** "Questions about values are really questions about the well-being of conscious creatures."
+** He's not really talking about moral values, but rather what's conducive to the flourishing of sentient life on Earth.
+* Does atheism provide a solid foundation for objective moral duties?
+** Natural science tells us only what is, not what ought to be. Science is about facts not norms -- it might tell us how we are, but not what is wrong with how we are.
+** It can't tell us how to take action conducive with human flourishing.
+** It's hard to see why morals would be anything more than a subjective impression ingrained into us by societal and parental conditioning.
+
+== Harris' Arguments
+
+* People rise to the defense of God not because there's so much evidence God exists, but rather that belief in God is the only intellectual framework for an objective morality.
+* Once we understand morality in terms of human well-being, we'll be able to make strong claims about which behaviors are right and wrong.
+* A belief in God is not only unnecessary for a universal morality, it is itself a source of moral blindness.
+* It's widely believed that there are two quantities in this world: facts and values. It's thought that when we look at the natural world, there's a pattern of events where there's no right and wrong. There's no corner of the universe that declares its events to be right and wrong. Instead, we declare these things by projecting our own preferences and desires onto a reality that is intrinsically value-free.
+* Right and wrong have been drummed into us by evolution.
+* If we have a moral duty to do anything, it's to avoid the worst possible misery for everyone.
+* Questions of right and wrong and good and evil depend on minds and the possibility of experience. Minds are natural phenomena, they depend on the laws of nature. Therefore, morality and human values can be understood through science because scientific facts that influence the well-being of conscious creatures.
+
+== Craig's Rebuttal
+
+* Human flourishing isn't objectively good. The observation of a pleasurable life being preferential to a life of suffering isn't an ethically objective statement.
+* Since it's possible that human well being and moral goodness are not identical, it follows necessarily that they are not the same.
+* Moral obligations or prohibitions arise in response to imperatives from a competent authority. Example: a policeman tells you to pull over, you are legally obligated to pull over. In the absence of God, what authority is there regarding morality?
+* Ought implies can: in the absence of the freedom of will, we are just puppets or electrochemical machines. In Harris' view, there is no libertarian free will or compatibilist free will.
+
+== Harris' Rebuttal
+
+* The whole point of Christianity is to safeguard the eternal well being of eternal souls.
+* 9 million children die every year before they reach the age of 5, or roughly 100 an hour. The parents of these children are praying for God to spare their children, but their prayers will not be answered.
+* Any God who would allow children by the millions to suffer and die in this way and their parents to grieve in this way can either do nothing to help them or doesn't care to. He is either impotent or evil. Worse than that, most of these people will be going to hell because they're praying to the wrong God. To no fault of their own, they were born into the wrong culture, where they got the wrong theology, and they missed the revelation.
+* God created the cultural isolation of the Hindus, and engineered the circumstance of their deaths in ignorance of the revelation, and then he created the penalty of this ignorance, which is an eternity of conscious torment in fire.
+* It's a strange, loving God that would make salvation depend on believing on him on bad evidence. If you lived 2000 years ago there was evidence galore, but apparently he got tired of being so helpful.
+* Christianity is a cult of human sacrifice -- it is a religion that celebrates a single human sacrifice as though it were effective.
+* Harris hasn't heard of a less moral framework than Christianity.
+
+== Craig's Second Rebuttal
+
+* The less moral framework is atheism, which has no grounds for objective moral values or duties.
+* Most of Harris' rebuttal points were red herrings.
+* You don't believe in God to avoid hell, but because God is the supreme good, and the appropriate object of adoration and love. The fullness of human existence is to be found in relation to God.
+
+== Harris' Second Rebuttal
+
+* Craig has merely defined God as being intrinsically good. There's no reason why there couldn't be one or more evil Gods.
+* A science of morality would be on the same footing as physics or chemistry. You only need to assume that the worst possible misery for everyone is bad and worth avoiding. It's the worst case scenario for conscious life.
+* Science doesn't require that we ignore the fact that some facts are ontologically subjective. Some first-person facts can be studied, and our studies reveal how much deeper and richer our lives are when compared to something like a cockroach. For example, if you're burned alive, the pain will be excruciatingly painful. Pain is subjective experience, but science can speak objectively about a certain class of subjective facts, that go by the name of morality, and these depend on the well-being of conscious creatures, especially our own.
+
+== Craig's Closing Statement
+
+* Dr. Arthur Allen Leff at Duke noted that he couldn't find a moral foundation for law, but ultimately everything boils down to: "says who?" link:http://scholarship.law.duke.edu/cgi/viewcontent.cgi?article=2724&context=dlj;[Source]
+
+== Harris' Closing Statement
+
+* Imagine that Islam is true, and Christians as well as Harris himself are all going to hell. This is exactly how Christianity sounds to people that haven't been indoctrinated by it.
+* The moral worldview of the ancients, namely Abraham, is similar to a modern Afghan warlord. We can either accept that the ancients possessed everything worth knowing about morality or embrace modern moral discovery.
+* If faith is right about anything, it's right by accident.
+
+
 .Post-debate analysis
 * http://www.mandm.org.nz/2011/04/debate-review-sam-harris-and-william-lane-craig-on-ethical-naturalism-part-ii.html?utm_source=rss&utm_medium=rss&utm_campaign=debate-review-sam-harris-and-william-lane-craig-on-ethical-naturalism-part-ii
 * http://commonsenseatheism.com/?p=15243

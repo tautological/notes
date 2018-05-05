@@ -1,0 +1,65 @@
+= Bart Ehrman and Sam Harris Podcast on "Waking Up"
+
+Source: https://youtu.be/1-n7EGoM18s
+
+[NOTE]
+My notes are intended to be read from the perspective of Ehrman. I wanted to ignore the repetition of saying "Ehrman believes/thinks/says".
+
+== Dating the NT
+
+* Jesus' Death (~30 AD)
+* Mark (~70 AD), but probably after the destruction of the Temple
+* Matthew and Luke (~80-85 AD)
+* John (~90-95 AD)
+
+== Heaven and Hell
+
+* The Old Testament doesn't talk about an everlasting Hell, and that the historical Jesus also doesn't describe that kind of Hell.
+* The idea of eternal torment comes more clearly in Revelation via the Lake of Fire.
+* The concept of Hell was advanced through progressive revelation:
+** In the OT, the idea of Sheol is a netherworld where people stay forever. The good and wicked, believers and non-believers, everyone goes into this shadowy existence.
+** In the NT, the afterlife shifts to a perspective that the righteous are rewarded and the wicked are punished via annihilation. Paul doesn't mention Hell.
+** In Revelation, people are tortured forever; there's eternal torment and eternal reward.
+* A summary of the general concept of Heaven: It's not that you die and your soul goes to Heaven forever. Rather, at the end of time, bodies are raised from the dead. The righteous will live in a utopian kingdom on Earth.
+
+== Inerrancy
+
+* Ehrman wrote a paper in seminary about Ahimelech and Abiathar (Mark 2:26), and the difficulty of determining why there's an error. This was the beginning of his doubt regarding inerrancy of the Bible.
+* The telephone game evidences why it's unlikely that, for example, the Sermon on the Mount is unlikely to have been remembered verbatim. Especially for 55 years after the fact, if Matthew is dated to 85 AD.
+* Harris counters by saying there's evidence that stories in oral cultures can be transmitted without great error, and Ehrman agrees it's possible.
+
+== The Messiah
+
+* One saying that must originate with Jesus (Matthew 19:28): "Jesus said to them, “Truly I tell you, in the renewal of all things, when the Son of Man sits on His glorious throne, you who have followed Me will also sit on twelve thrones, judging the twelve tribes of Israel."
+* This is authentic because Judas Iscariot eventually betrayed Jesus, and this isn't the kind of saying that a later Christian would have Jesus say. This is evidence of the link:https://en.wikipedia.org/wiki/Criterion_of_dissimilarity[criterion of dissimilarity].
+* Jesus believed/taught that he was going to rule within a generation, that is: the Kingdom of God would be on earth within a generation. The disciples and apostolic writings also seem to take the "generation" claims literally.
+
+== Evidence of Jesus
+
+* Jesus must have certainly existed. Ehrman calls Mythicists "fringe."
+* Christianity spread so widely and so quickly that Jesus must have been well known, and acknowledged to be a real person contemporaneously.
+* Ehrman indicates that he believes Paul's accounts that he knew James, Jesus' brother, and also seems to think that Paul truly did persecute Christians.
+* Paul must have converted within 2-3 years of the crucifixion.
+
+== Henotheism and Polytheism
+
+* link:https://en.wikipedia.org/wiki/Henotheism[Henotheism]: There are many gods, but only one god is worthy of worship.
+* The Bible contains henotheistic language, particularly in Genesis ("us" instead of "I").
+* When God gives Moses the Ten Commandments, he says "shall not be other gods before me." This language presupposes other gods.
+* Around Jesus' time, there was a large contingent of monotheists within Judaism, but henotheism was still present.
+
+== Paul
+
+* Paul is the most significant convert in the history of Christianity.
+* Paul didn't invent Christianity or start it.
+* Paul came to realize that the death and resurrection of Jesus would apply to Gentiles as well.
+* Paul's encounter with Jesus was likely caused by a psychological vision, because Jesus "was on his mind" due to Paul's persecution of Christians.
+* Paul might have been a leatherworker who traveled around, opened shops in various places, and would try and convert people through conversations at work.
+* Paul's passages about not letting women teach are likely interpolations:
+** 1 Timothy wasn't written by Paul; it was falsely attributed to him.
+** 1 Corinthians 14:34 was a later interpolation by a scribe.
+
+== Constantine
+
+* The success of Christianity in the Roman Empire shouldn't be attributed to Constantine.
+* Rome would have been taken over by Christianity in the 4th century anyway, based on growth numbers.

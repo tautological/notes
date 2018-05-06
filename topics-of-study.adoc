@@ -1,5 +1,32 @@
 = Topics of Study
 
-.The Mind
+== The Bible
+
+* Dating the NT
+** Synoptic problem
+** Marcan or Matthean Priority
+* Authorship and Pseudoepigrapha
+** Paul's Pastoral Letters
+** Peter's Letters
+** Jude
+** James
+** Pentateuch/Torah and Moses
+* Textual criticism
+** Origins
+** Reliability
+
+== History
+
+* Evidence for Exodus
+
+== The Mind
+
 * Dualism or Physicalism
 * Hyperactive Agency Detection
+
+== Inerrancy
+
+* Genesis 1-11
+** Creation narrative
+** Historical Adam
+** The Flood

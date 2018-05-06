@@ -20,7 +20,7 @@ My notes are intended to be read from the perspective of Ehrman. I wanted to ign
 ** In the OT, the idea of Sheol is a netherworld where people stay forever. The good and wicked, believers and non-believers, everyone goes into this shadowy existence.
 ** In the NT, the afterlife shifts to a perspective that the righteous are rewarded and the wicked are punished via annihilation. Paul doesn't mention Hell.
 ** In Revelation, people are tortured forever; there's eternal torment and eternal reward.
-* A summary of the general concept of Heaven: It's not that you die and your soul goes to Heaven forever. Rather, at the end of time, bodies are raised from the dead. The righteous will live in a utopian kingdom on Earth.
+* A more accurate summary of the Biblical concept of Heaven: It's not that you die and your soul goes to Heaven forever. Rather, at the end of time, bodies are raised from the dead. The righteous will live in a utopian kingdom on Earth.
 
 == Inerrancy
 
@@ -45,7 +45,8 @@ My notes are intended to be read from the perspective of Ehrman. I wanted to ign
 
 * link:https://en.wikipedia.org/wiki/Henotheism[Henotheism]: There are many gods, but only one god is worthy of worship.
 * The Bible contains henotheistic language, particularly in Genesis ("us" instead of "I").
-* When God gives Moses the Ten Commandments, he says "shall not be other gods before me." This language presupposes other gods.
+* When God gives Moses the Ten Commandments, he says "you shall not have other gods before me." This language presupposes other gods.
+* Christians and Jews have developed the concept of a monotheistic God over time by attempting to harmonize the biblical evidence for henotheism.
 * Around Jesus' time, there was a large contingent of monotheists within Judaism, but henotheism was still present.
 
 == Paul
@@ -54,7 +55,8 @@ My notes are intended to be read from the perspective of Ehrman. I wanted to ign
 * Paul didn't invent Christianity or start it.
 * Paul came to realize that the death and resurrection of Jesus would apply to Gentiles as well.
 * Paul's encounter with Jesus was likely caused by a psychological vision, because Jesus "was on his mind" due to Paul's persecution of Christians.
-* Paul might have been a leatherworker who traveled around, opened shops in various places, and would try and convert people through conversations at work.
+* Paul might have been a leatherworker who traveled around, opened shops in various places, and tried to convert people through conversations at work. This might explain why he was so poorly treated in many places he visited.
+* Paul wouldn't have needed significant numbers of converts to explain the early growth of Christianity.
 * Paul's passages about not letting women teach are likely interpolations:
 ** 1 Timothy wasn't written by Paul; it was falsely attributed to him.
 ** 1 Corinthians 14:34 was a later interpolation by a scribe.
